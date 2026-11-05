@@ -1,1 +1,6 @@
-fastapi\nuvicorn[standard]\nultralytics\npython-multipart\nopencv-python-headless\nnumpy\n
+fastapi
+uvicorn[standard]
+ultralytics
+python-multipart
+opencv-python-headless
+numpy
